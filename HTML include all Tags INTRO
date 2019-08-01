@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- We will teach you codes step by step guide but first you need to know the basic -->
+    <!-- We will start with the "paragraph tags <p></p>" -->
+
+
+    <!-- These Tags Are Used To Write A Paragraph, Demo is written Below -->
+    <p>Hey there buddy!, we use these tags to write paragraph</p>
+    
+    <!-- now you know how to make paragraph the most easiest part -->
+
+    <!-- now its a part to understand the tags of html -->
+
+    <!-- down below are the tags that are important to understand -->
+    <p>This is a paragraph tag, as we taught you before</p>
+
+
+
+
+
+    <!-- This is a body tag which you can put all the various elements tags for your website structure
+    accordingly as you want it -->
+    <body><p>here we have put a paragraph tag in the body</p></body>
+
+    <!-- down below is a html tag, which is used to start to write the structure of your website -->
+    <html><body><p>Html is called "Hyper Text Markup Language"</p></body></html>
+
+    <!-- Every tag goes like this way  -->
+    <tagname>content goes here...</tagname>
+
+
+
+    
+    <p>The <!DOCTYPE> declaration represents the document type, and helps browsers to display web pages correctly.
+
+    It must only appear once, at the top of the page (before any TAGS)</p>
+
+
+
+
+    <!-- headings  -->
+
+    <!-- These are called headings -->
+    <h1>this a heading</h1>
+    <h2>this a heading</h2> 
+    <h3>this a heading</h3>
+    <h4>this a heading</h4>
+    <h5>this a heading</h5>
+    <h6>this a heading</h6>   
+
+
+
+<!-- the given tag below is the <a></a> tag through this you can add links to your website -->
+<a href="https://cubeacloud.com">This is a link</a>
+
+
+
+<!-- <img> tag is a tag through that you can attach images on on website -->
+
+<!-- alt attribute specifies an alternate text for an image, if the image cannot be displayed -->
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjql6-NoOLjAhU95eAKHZ7EALgQjRx6BAgBEAQ&url=https%3A%2F%2Funsplash.com%2Fsearch%2Fphotos%2Fcats&psig=AOvVaw0ZWkehD9kT7R0I6iW3G9nu&ust=1564768780611694" alt="a cat image">
+
+
+
+
+
+
+</body>
+</html>
+
