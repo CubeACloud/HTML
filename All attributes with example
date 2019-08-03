@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-US"> <!--The language is declared with the lang attribute.  -->
+<head>
+	<title>Attributes</title>
+</head>
+<body> 
+
+
+<!-- You can add attributes in tags  -->
+
+<!-- href for add url links -->
+<a href="https://www.cubeacloud.com">This is a link</a>
+
+<!-- src for internal source links & The alt attribute specifies an alternative text to be used, if an image cannot be displayed.-->
+<img src="image.jpg" alt="flower">
+
+<!-- if we want to align a code in center howd we do it? -->
+<p align="center">simple its done by adding *align="center*</p>
+
+
+
+
+<!-- A simple tag -->
+<p>A simple paragraph</p>
+
+<!-- using style attribute tag -->
+<p style="color:red">color red</p>
+
+
+
+<!-- A paragraph with attribute -->
+<p align="center">See its simple to a</p>
+
+
+
+
+<!-- we can go left & right too with align attribute -->
+<p align="right">A aligned paragraph on right side</p>
+<p align="left">A aligned paragraph on left side</p>
+
+
+
+
+<!-- Hr tag is used for horizontal line -->
+<p>Some Text</p>
+<hr>
+<p>Some Text</p>
+
+
+
+<!-- now we will add an width attribute in hr tag -->
+<p>A width attribute with the value of pixels</p>
+<hr width="70px">
+<hr width="70%">
+<p>You can also use percentage in width attribute</p>
+
+
+
+
+<!-- Now its time to learn text formatting elements -->
+
+
+<!-- Down below are the example on how you can make text bold, strong, italic e.t.c-->
+<p>A normal paragraph</p>
+<p><small>A paragraph with small text</small></p>
+<p><big>A paragraph with big text</big></p>
+<p><b>A paragraph with bold text</b></p>
+<p><i>A paragraph with italic text</i></p>
+<p><strong>A paragraph with strong text</strong></p>
+<p><sub>A paragraph with subscripted text</sub></p>
+<p><ins>A paragraph with inserted text</ins></p>
+<p><sup>A paragraph with superscripted text</sup></p>
+<p><del>A paragraph with deleted text</del></p>
+
+
+</body>
+</html>
