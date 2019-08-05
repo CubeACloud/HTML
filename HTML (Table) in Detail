@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<!-- well today we will learn about table in html -->
+<!-- they aren't hard as you think -->
+
+<!-- we will define you the tables step by step guide -->
+
+
+
+<!-- you can define a table by <table> tag,
+     example given below -->
+<table></table>
+
+
+
+<!-- table tag is divided into table rows which are defined by <tr> tag, 
+    example given below -->
+<tr></tr>
+
+
+
+
+<!-- table rows are also divided into table coloumns which are defined by <td> tag,
+     example are given below -->
+<td></td>
+
+
+
+<!-- a simple example of table -->
+
+<table>
+
+    <tr>
+
+        <td >these table data  tags act as a data conatiners</td> 
+        <td>i know its complex but its easy at the same moment</td> 
+        <td>you can do it, just focus</td>
+
+    </tr>
+
+</table>
+
+<!-- a bit advance example of tables -->
+<!-- NOTE: border attribute isn't supported in HTML 5 -->
+
+<table border="2">
+
+    <tr>
+        <td>123</td>
+        <td>456</td>
+        <td>789</td>
+    </tr>
+
+    <!-- you can use colspan="" attribute in table columns,
+         and yes they can expand more than 2 columns -->
+
+    <tr>
+        <td><br></td>
+        <td colspan="2"></td>
+    </tr>
+
+</table>
+
+
+<!-- you can use also use bgcolor attribute to ad color in columns -->
+
+<table border="2">
+     
+        <tr>
+            <td>123</td>
+            <td>456</td>
+            <td>789</td>
+        </tr>
+    
+        <!-- a example is given down below on how bgcolor attribute works -->
+    
+        <tr>
+            <td><br></td>
+            <td bgcolor="yellow">COLOR</td>
+            <td colspan="2">10112</td>
+        </tr>
+    
+    </table>
+
+
+
+    <!-- And thats all folks -->
+
+
+
+</body>
+</html>
+Chat conversation end
+Type a message...
