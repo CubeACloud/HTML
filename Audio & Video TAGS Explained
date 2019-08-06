@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+
+
+    <!-- hey its time to spice up with some easy tags of html -->
+    <!-- for media controls -->
+
+
+
+    <!-- if you want to ad a video on a website than <video> tag is your way to go -->
+        <!-- example is given below -->
+        <!-- src tag specifies the source -->
+    <video src=""></video>
+
+
+
+
+    <!-- you can also add attributes to this tsg like hieght & width -->
+    <video height="100px" width="100px" src=""></video>
+
+
+
+
+    <!-- there are also other attribute that you can add and they are so usefull at the same time -->
+        <!-- examples are given below -->
+
+        <!-- 	Specifies that the video will start playing as soon as it is ready -->
+        <video autoplay src=""></video>
+
+        <!-- Specifies an image to be shown while the video is downloading, or until the user hits the play button -->
+        <video poster="" src=""></video>
+
+
+        <!-- Specifies that video controls should be displayed (such as a play/pause button etc). -->
+        <video controls src=""></video>
+
+
+        <!-- Specifies that the video will start over again, every time it is finished -->
+        <video loop src=""></video>
+
+
+        <!-- Specifies that the audio output of the video should be muted -->
+        <video muted src=""></video>
+
+
+        <!-- Specifies if and how the author thinks the video should be loaded when the page loads -->
+        <!-- there are three values of this tag "auto", "metadata" & "none" -->
+        <video preload="" src=""></video>
+
+
+
+
+
+
+
+        <!-- adding audio to your sites is simple and fun just like video its almost exact -->
+        <!-- but this there wont be hieght or width attribute -->
+
+
+
+
+        <!-- you can add <audio> tag, just like that -->
+            <!-- example is given below -->
+            <!-- src tag specifies the source -->
+        <audio src=""></audio>
+
+
+
+
+
+        <!-- there are also other attributes that you can add -->
+        <!-- examples are given below -->
+
+        
+        <!-- Specifies that the audio will start playing as soon as it is ready -->
+        <audio autoplay src=""></audio>
+
+
+        <!--   Specifies that audio controls should be displayed (such as a play/pause button etc) -->
+            <audio controls src=""></audio>
+
+
+        <!-- Specifies that the audio will start over again, every time it is finished -->
+            <audio loop src=""></audio>
+
+        <!-- Specifies that the audio output should be muted -->
+        <audio muted src=""></audio>
+
+        <!-- Specifies if and how the author thinks the audio should be loaded when the page loads -->
+        <!-- just like video there are three values of this tag "auto", "metadata" & "none" -->
+        <audio preload="" src=""></audio>
+
+            
+</body>
+</html>
