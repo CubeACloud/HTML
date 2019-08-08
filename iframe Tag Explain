@@ -38,11 +38,20 @@
         <!-- you can also specify them in percent % -->
         <iframe src="https://cubeacloud.com" height="600%" width="100%" frameborder="1"> </iframe>
 
-        
+       
 
 
+        <!-- you can use frame as target for a link,
+             yeah it sounds a bit complex but it isnt that complex  -->
 
-        
+            <!-- name attribute is like a class in html -->
+            <!-- you can target with an <a> tag -->
+
+                <!-- when you open this html click on the link wher "CubeACloud" & see the magic -->
+
+             <iframe src="" frameborder="0" name="name_a"></iframe>
+
+             <p><a href="https://cubeacloud.com" target="name_a">CubeACloud</a></p>
 
 
 
