@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Extras & Important</title>
+</head>
+<body>
+
+
+
+
+	<!-- today we will learn a bit new things which help in many ways  -->
+	<!--you can quote in site by simply deploying a tag  -->
+	<!-- you can define quote with <q> tag -->
+		<!-- example given below -->
+
+
+
+	<p>Hi this is<q>Just A Example</q> hope you love learning it.</p>
+
+
+<br>
+<br>
+
+
+
+	<!-- Fun begins with blockquote tag -->
+	<!-- block quote tag can be defined by <blockquote> with an attribute of cite -->
+		<!-- example is given below -->
+
+
+
+		<p>so this is a<blockquote cite="https://cubeacloud.com">test you are seeing, i hope you know us the cube a cloud..... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</blockquote></p>
+
+
+
+<br>
+<br>
+
+
+		<!-- lets move on to an other tag which is quite useful  -->
+		<!-- the abbrevation tag use to define a abbrevation or acronym  -->\
+		<!-- the abbrevation tag is defined by <abbr> -->
+		<!-- you can use this tage with title attribute -->
+			<!-- example is given below -->
+
+ 
+		<p>our company<abbr title="Cube A Cloud">CAC is going to be future of our country</abbr></p>
+
+
+		<!-- now on a website if you hold your cursor on highlighted text for a moment it tell the full abbrevation word -->
+
+
+
+
+<br>
+<br>
+
+
+		<!-- there is also a tag which can highlight your address -->
+		<!-- address tag is defined by <address> -->
+			<!-- example is given below -->
+
+
+
+			<address>
+				You can visit us at:
+				cubeacloud.com <br>
+
+				Phone No:
+				000-00000000 <br>
+				
+				Address:
+				live streets of wonderland
+
+			</address>
+
+
+<br>
+<br>
+
+
+			<!-- there is also a site tag which doesn't do much -->
+			<!-- you can just use it to make the text italic -->
+				<!--example given below  -->
+
+				<cite>This is just a example on how cite tag works</cite>
+
+
+
+<br>
+<br>
+
+
+
+
+				<!-- there also a tag which you will say its useless but nothing is useless  -->
+
+				<!-- it can turn your sentence right to left in a word by word manner -->
+
+				<!-- with a direction attribute -->
+
+ 				<!--  and the tag is defined by <bdo> -->
+
+
+ 					<bdo dir="rtl" >You can see this sentence is bit odd</bdo>
+
+
+
+
+
+
+
+
+</body>
+</html>
