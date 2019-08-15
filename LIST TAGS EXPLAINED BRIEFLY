@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- and this to time you will lean about lists there 2 different type of lists -->
+    <!-- Ordered list & Unorderd list -->
+
+    <!-- order list is defined by <ol> tag -->
+
+        <!-- & -->
+
+    <!-- Unordered list is defined by <ul> tag -->
+
+        <!-- example is given below -->
+
+
+        <p><b>ORDERED LIST</b></p>
+        <!-- order list -->
+         
+        <ol>
+            <li>TEST 1</li>
+            <li>TEST 2</li>
+            <li>TEST 3</li>
+        </ol>
+
+
+<br>
+
+
+        <p><b>UNORDERED LIST</b></p>
+        <!-- unorder list -->
+
+        <ul>
+            <li>TEST 1</li>
+            <li>TEST 2</li>
+            <li>TEST 3</li>
+        </ul>
+
+
+
+<br>
+
+
+        <!-- you can change style of unoredered list with css but that is for 
+            another special css lesson -->
+            <!-- but you can add attribute in the ordered list  -->
+
+        <!-- Example is given below -->
+
+        <p><b>SOME ORDERED LIST WITH TYPE ATTRIBUTES </b></p>
+        <p><b>Examples Given Below</b></p>
+
+        <!-- Numbers -->
+        <ol type="1">
+                <li>EXAMPLE 1</li>
+                <li>EXAMPLE 2</li>
+                <li>EXAMPLE 3</li>
+            </ol>
+
+
+            <!-- Uppercase -->
+        <ol type="A">
+                <li>EXAMPLE 1</li>
+                <li>EXAMPLE 2</li>
+                <li>EXAMPLE 3</li>
+            </ol>
+
+
+            <!-- Lowercase -->
+        <ol type="a">
+                <li>EXAMPLE 1</li>
+                <li>EXAMPLE 2</li>
+                <li>EXAMPLE 3</li>
+            </ol>
+           
+            
+            <!-- Uppercase Roman -->
+        <ol type="I">
+                <li>EXAMPLE 1</li>
+                <li>EXAMPLE 2</li>
+                <li>EXAMPLE 3</li>
+           </ol>
+        
+
+           <!-- Lowercase Roman -->
+        <ol type="i">
+                 <li>EXAMPLE 1</li>
+                 <li>EXAMPLE 2</li>
+                 <li>EXAMPLE 3</li>
+            </ol>
+
+
+<br>
+
+
+            <!-- you can also use a attribute of start in ordered list -->
+            <!-- by default ordered list start with 1 -->
+
+            <p><b>you can also use a attribute of start in ordered list</b></p>
+            <p><b>by default ordered list start with 1</b></p>
+
+            <ol start="10">
+                <li>Hi 1</li>
+                <li>Hi 2</li>
+                <li>Hi 3</li>
+            </ol>
+
+<br>
+
+            <!-- you can use nested list its like lists inside a list -->
+
+            <!-- example is given below -->
+
+            <p><b>Nested List</b></p>
+
+        
+            <ul>
+                <li>Work 1</li>
+                <li>Work 2</li>
+                <ul>
+                    <li>Work 5</li>
+                    <li>Work 6</li>
+                </ul>
+                <li>Work 3</li>
+                <li>Work 4</li>
+            </ul>
+
+<br>
+
+
+            <!-- now its time to explain you description list -->
+            <!-- description are use to define the list item with a defination -->
+            <!-- description list use these tags <dl>, <dt> & <dd> -->
+
+                <p><b>Description List</b></p>
+                <dl>
+                    <dt>Fish</dt>
+                    <dd>A salmon fish for dinner</dd>
+                    <dt>Recipe</dt>
+                    <dd>its our secret</dd>
+                </dl>
+</body>
+</html>
