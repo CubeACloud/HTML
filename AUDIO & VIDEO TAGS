@@ -15,7 +15,7 @@
 
 
 
-    <!-- if you want to ad a video on a website than <video> tag is your way to go -->
+    <!-- if you want to add a video on a website than <video> tag is your way to go -->
         <!-- example is given below -->
         <!-- src tag specifies the source -->
     <video src=""></video>
