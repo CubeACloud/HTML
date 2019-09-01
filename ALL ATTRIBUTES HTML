@@ -8,13 +8,13 @@
 
 <!-- You can add attributes in tags  -->
 
-<!-- href for add url links -->
+<!-- href for/to add url links -->
 <a href="https://www.cubeacloud.com">This is a link</a>
 
-<!-- src for internal source links & The alt attribute specifies an alternative text to be used, if an image cannot be displayed.-->
+<!-- src for/to internal source links & The alt attribute specifies an alternative text to be used, if an image cannot be displayed.-->
 <img src="image.jpg" alt="flower">
 
-<!-- if we want to align a code in center howd we do it? -->
+<!-- if we want to align a code in center how we do it? -->
 <p align="center">simple its done by adding *align="center*</p>
 
 
@@ -34,7 +34,7 @@
 
 
 
-<!-- we can go left & right too with align attribute -->
+<!-- we can go left & right too, with align attribute -->
 <p align="right">A aligned paragraph on right side</p>
 <p align="left">A aligned paragraph on left side</p>
 
