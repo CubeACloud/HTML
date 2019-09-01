@@ -28,7 +28,7 @@
 		<!-- example is given below -->
 
 
-
+		<!-- A random text written in the tag -->
 		<p>so this is a<blockquote cite="https://cubeacloud.com">test you are seeing, i hope you know us the cube a cloud..... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -106,7 +106,7 @@
 
  				<!--  and the tag is defined by <bdo> -->
 
-
+					<!--  example given below -->
  					<bdo dir="rtl" >You can see this sentence is bit odd</bdo>
 
 
