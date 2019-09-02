@@ -8,25 +8,25 @@
 </head>
 <body>
 
-    <!-- iframe is actually fun thing to use to spice up your site with this luxury -->
-    <!-- iframe are used to display website within the website, cool isn't it? -->
+    <!-- iframe is actually fun thing to use to spice up your site with this luxury. -->
+    <!-- iframe are used to display website within the website, cool isn't it?. -->
 
 
 
-    <!-- iframe are defined by <iframe> tag -->
+    <!-- iframe are defined by <iframe> tag. -->
         <iframe src="" frameborder="0"></iframe>
 
 
 
 
 
-        <!-- you can use attributes like height and width to it -->
+        <!-- you can use attributes like height and width to it. -->
 
         <!-- you can the file you want in the src attriubute like HTMLDEMO.html -->
 
-        <!-- examples are given below -->
+        <!-- examples are given below. -->
 
-        <!-- you can use frameborder attribute -->
+        <!-- you can use frameborder attribute. -->
         <iframe src="https://cubeacloud.com" height="400px" width="800px" frameborder="1"> </iframe>
 
 <br>
@@ -35,19 +35,19 @@
 <br>
 
 
-        <!-- you can also specify them in percent % -->
+        <!-- you can also specify them in percent %. -->
         <iframe src="https://cubeacloud.com" height="600%" width="100%" frameborder="1"> </iframe>
 
        
 
 
         <!-- you can use frame as target for a link,
-             yeah it sounds a bit complex but it isnt that complex  -->
+             yeah it sounds a bit complex but it isnt that complex.  -->
 
-            <!-- name attribute is like a class in html -->
-            <!-- you can target with an <a> tag -->
+            <!-- name attribute is like a class in html. -->
+            <!-- you can target with an <a> tag. -->
 
-                <!-- when you open this html click on the link wher "CubeACloud" & see the magic -->
+                <!-- when you open this html click on the link wher "CubeACloud" & see the magic. -->
 
              <iframe src="" frameborder="0" name="name_a"></iframe>
 
