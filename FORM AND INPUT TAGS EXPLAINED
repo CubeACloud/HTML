@@ -6,77 +6,77 @@
 <body>
 
 
-	<!-- We are gonna learn form & input tags -->
+	<!-- We are gonna learn form & input tags. -->
 
 
-	<!-- This is a form tag -->
+	<!-- This is a form tag. -->
 	<form></form>
 
 
-	<!-- form tags are used to collect information from user photos, text e.t.c -->
+	<!-- form tags are used to collect information from user photos, text e.t.c. -->
 
 
 
-	<!-- we can use action attribute for back-end process of data through technologies -->
+	<!-- we can use action attribute for back-end process of data through technologies. -->
 
 
-	<!-- like php, ruby, python -->
+	<!-- like php, ruby, python. -->
 	<form action="www.cubeacloud.com"></form>
 
 
 
-	<!-- there are two methods that specifies the http (GET or POST) -->
+	<!-- there are two methods that specifies the http (GET or POST). -->
 
 
 
-	<!-- GET method is more visible and POST is more secure. POST method is used more often in websites with form -->
+	<!-- GET method is more visible and POST is more secure. POST method is used more often in websites with form. -->
 
 
 
 
-	<!-- to take input from user, we need the <input> element  -->
-	<!-- <input> element has many variations -->
-	<!-- it can be text, radio, url, password, submit e.t.c -->
-	<!-- Example is given below on how to use them -->
+	<!-- to take input from user, we need the <input> element.  -->
+	<!-- <input> element has many variations. -->
+	<!-- it can be text, radio, url, password, submit e.t.c. -->
+	<!-- Example is given below on how to use them. -->
 
 	<form><input type="username" name="username"></form> <br>
 	<form><input type="password" name="password"></form>
 
 
-<!-- These breaklines are just gimmick nothing to learn already taught before -->
+<!-- These breaklines are just gimmick nothing to learn already taught before. -->
 <br>
 <br>
 
 
-<!-- now we will explain input element with deatils -->
-<!-- by using input type "radio" to make radio buttons -->
+<!-- now we will explain input element with deatils. -->
+<!-- by using input type "radio" to make radio buttons. -->
 
 <input type="radio" name="young" value="young">Are you a Teenager <br>
 <input type="radio" name="old" value="old">Are you a Adult
 
 
 
-<!-- These breaklines are just gimmick nothing to learn already taught before -->
+<!-- These breaklines are just gimmick nothing to learn already taught before. -->
 <br>
 <br>
 
 
 
-<!-- Another Example with checkboxes -->
+<!-- Another Example with checkboxes. -->
 <input type="checkbox" name="young" value="young">Are you a Teenager <br>
 <input type="checkbox" name="old" value="old">Are you a Adult
 
 
 
-<!-- These breaklines are just gimmick nothing to learn already taught before -->
+<!-- These breaklines are just gimmick nothing to learn already taught before. -->
 <br>
 <br>
 
 
 
-<!-- well there are various input types -->
-<!-- everything is important just learn them by practice -->
-<!-- examples are given below -->
+<!-- well there are various input types. -->
+<!-- everything is important just learn them by practice. -->
+<!-- examples are given below. -->
 
 <input type="color">  for color <br>
 <input type="date"> for date e.g date of birth <br>
@@ -90,30 +90,30 @@
 
 
 
-<!-- These breaklines are just gimmick nothing to learn already taught before -->
+<!-- These breaklines are just gimmick nothing to learn already taught before. -->
 <br>
 <br>
 
 
 
-<!-- last but not least input type "submit" act as a submit button -->
+<!-- last but not least input type "submit" act as a submit button. -->
 <!--  example given below -->
 
 
 
-<!-- value attributes define value of the input -->
+<!-- value attributes define value of the input. -->
 <input type="submit" name="submit" value="submit">
 
 
 
-<!-- These breaklines are just gimmick nothing to learn already taught before -->
+<!-- These breaklines are just gimmick nothing to learn already taught before. -->
 <br>
 <br>
 <br>
 <br>
 
 
-<!-- now a clean demo -->
+<!-- now a clean demo. -->
 <form><input type="text" name="username"></form>
 <form><input type="password" name="password"></form>
 <input type="submit" name="submit" value="submit">
