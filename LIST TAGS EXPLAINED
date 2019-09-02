@@ -9,20 +9,20 @@
 
 <body>
 
-    <!-- and this to time you will lean about lists there 2 different type of lists -->
-    <!-- Ordered list & Unorderd list -->
+    <!-- and this to time you will lean about lists there 2 different type of lists. -->
+    <!-- Ordered list & Unorderd list. -->
 
-    <!-- order list is defined by <ol> tag -->
+    <!-- order list is defined by <ol> tag. -->
 
         <!-- & -->
 
-    <!-- Unordered list is defined by <ul> tag -->
+    <!-- Unordered list is defined by <ul> tag. -->
 
-        <!-- example is given below -->
+        <!-- example is given below. -->
 
 
         <p><b>ORDERED LIST</b></p>
-        <!-- order list -->
+        <!-- order list. -->
          
         <ol>
             <li>TEST 1</li>
@@ -35,7 +35,7 @@
 
 
         <p><b>UNORDERED LIST</b></p>
-        <!-- unorder list -->
+        <!-- unorder list. -->
 
         <ul>
             <li>TEST 1</li>
@@ -49,15 +49,15 @@
 
 
         <!-- you can change style of unoredered list with css but that is for 
-            another special css lesson -->
-            <!-- but you can add attribute in the ordered list  -->
+            another special css lesson. -->
+            <!-- but you can add attribute in the ordered list.  -->
 
-        <!-- Example is given below -->
+        <!-- Example is given below: -->
 
         <p><b>SOME ORDERED LIST WITH TYPE ATTRIBUTES </b></p>
         <p><b>Examples Given Below</b></p>
 
-        <!-- Numbers -->
+        <!-- Number: -->
         <ol type="1">
                 <li>EXAMPLE 1</li>
                 <li>EXAMPLE 2</li>
@@ -65,7 +65,7 @@
             </ol>
 
 
-            <!-- Uppercase -->
+            <!-- Uppercase: -->
         <ol type="A">
                 <li>EXAMPLE 1</li>
                 <li>EXAMPLE 2</li>
@@ -73,7 +73,7 @@
             </ol>
 
 
-            <!-- Lowercase -->
+            <!-- Lowercase: -->
         <ol type="a">
                 <li>EXAMPLE 1</li>
                 <li>EXAMPLE 2</li>
@@ -81,7 +81,7 @@
             </ol>
            
             
-            <!-- Uppercase Roman -->
+            <!-- Uppercase Roman: -->
         <ol type="I">
                 <li>EXAMPLE 1</li>
                 <li>EXAMPLE 2</li>
@@ -89,7 +89,7 @@
            </ol>
         
 
-           <!-- Lowercase Roman -->
+           <!-- Lowercase Roman: -->
         <ol type="i">
                  <li>EXAMPLE 1</li>
                  <li>EXAMPLE 2</li>
@@ -100,8 +100,8 @@
 <br>
 
 
-            <!-- you can also use a attribute of start in ordered list -->
-            <!-- by default ordered list start with 1 -->
+            <!-- you can also use a attribute of start in ordered list. -->
+            <!-- by default ordered list start with 1. -->
 
             <p><b>you can also use a attribute of start in ordered list</b></p>
             <p><b>by default ordered list start with 1</b></p>
@@ -114,9 +114,9 @@
 
 <br>
 
-            <!-- you can use nested list its like lists inside a list -->
+            <!-- you can use nested list its like lists inside a list. -->
 
-            <!-- example is given below -->
+            <!-- example is given below. -->
 
             <p><b>Nested List</b></p>
 
@@ -136,8 +136,8 @@
 
 
             <!-- now its time to explain you description list, yeah they are barely used. -->
-            <!-- description are use to define the list item with a defination -->
-            <!-- description list use these tags <dl>, <dt> & <dd> -->
+            <!-- description are use to define the list item with a defination. -->
+            <!-- description list use these tags <dl>, <dt> & <dd>. -->
 
                 <p><b>Description List</b></p>
                 <dl>
