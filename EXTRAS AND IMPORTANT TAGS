@@ -8,10 +8,10 @@
 
 
 
-	<!-- today we will learn a bit new things which help in many ways  -->
-	<!--you can quote in site by simply deploying a tag  -->
-	<!-- you can define quote with <q> tag -->
-		<!-- example given below -->
+	<!-- today we will learn a bit new things which help in many ways.  -->
+	<!--you can quote in site by simply deploying a tag.  -->
+	<!-- you can define quote with <q> tag. -->
+		<!-- example given below. -->
 
 
 
@@ -23,12 +23,12 @@
 
 
 
-	<!-- Fun begins with blockquote tag -->
-	<!-- block quote tag can be defined by <blockquote> with an attribute of cite -->
-		<!-- example is given below -->
+	<!-- Fun begins with blockquote tag. -->
+	<!-- block quote tag can be defined by <blockquote> with an attribute of cite. -->
+		<!-- example is given below. -->
 
 
-		<!-- A random text written in the tag -->
+		<!-- A random text written in the tag. -->
 		<p>so this is a<blockquote cite="https://cubeacloud.com">test you are seeing, i hope you know us the cube a cloud..... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -42,11 +42,11 @@
 <br>
 
 
-		<!-- lets move on to an other tag which is quite useful  -->
-		<!-- the abbrevation tag use to define a abbrevation or acronym  -->\
-		<!-- the abbrevation tag is defined by <abbr> -->
-		<!-- you can use this tage with title attribute -->
-			<!-- example is given below -->
+		<!-- lets move on to an other tag which is quite useful.  -->
+		<!-- the abbrevation tag use to define a abbrevation or acronym.  -->\
+		<!-- the abbrevation tag is defined by <abbr>. -->
+		<!-- you can use this tage with title attribute. -->
+			<!-- example is given below. -->
 
  
 		<p>our company<abbr title="Cube A Cloud">CAC is going to be future of our country</abbr></p>
@@ -61,9 +61,9 @@
 <br>
 
 
-		<!-- there is also a tag which can highlight your address -->
-		<!-- address tag is defined by <address> -->
-			<!-- example is given below -->
+		<!-- there is also a tag which can highlight your address. -->
+		<!-- address tag is defined by <address>. -->
+			<!-- example is given below. -->
 
 
 
@@ -84,9 +84,9 @@
 <br>
 
 
-			<!-- there is also a site tag which doesn't do much -->
-			<!-- you can just use it to make the text italic -->
-				<!--example given below  -->
+			<!-- there is also a site tag which doesn't do much. -->
+			<!-- you can just use it to make the text italic. -->
+				<!--example given below.  -->
 
 				<cite>This is just a example on how cite tag works</cite>
 
@@ -98,15 +98,15 @@
 
 
 
-				<!-- there also a tag which you will say its useless but nothing is useless  -->
+				<!-- there also a tag which you will say its useless but nothing is useless.  -->
 
-				<!-- it can turn your sentence right to left in a word by word manner -->
+				<!-- it can turn your sentence right to left in a word by word manner. -->
 
-				<!-- with a direction attribute -->
+				<!-- with a direction attribute. -->
 
- 				<!--  and the tag is defined by <bdo> -->
+ 				<!--  and the tag is defined by <bdo>. -->
 
-					<!--  example given below -->
+					<!--  example given below. -->
  					<bdo dir="rtl" >You can see this sentence is bit odd</bdo>
 
 
