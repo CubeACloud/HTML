@@ -6,9 +6,9 @@
 <body> 
 
 
-<!-- You can add attributes in tags  -->
+<!-- You can add attributes in tags.  -->
 
-<!-- href for/to add url links -->
+<!-- href for/to add url links. -->
 <a href="https://www.cubeacloud.com">This is a link</a>
 
 <!-- src for/to internal source links & The alt attribute specifies an alternative text to be used, if an image cannot be displayed.-->
@@ -20,35 +20,35 @@
 
 
 
-<!-- A simple tag -->
+<!-- A simple tag. -->
 <p>A simple paragraph</p>
 
-<!-- using style attribute tag -->
+<!-- using style attribute tag. -->
 <p style="color:red">color red</p>
 
 
 
-<!-- A paragraph with attribute -->
+<!-- A paragraph with attribute. -->
 <p align="center">See its simple to a</p>
 
 
 
 
-<!-- we can go left & right too, with align attribute -->
+<!-- we can go left & right too, with align attribute. -->
 <p align="right">A aligned paragraph on right side</p>
 <p align="left">A aligned paragraph on left side</p>
 
 
 
 
-<!-- Hr tag is used for horizontal line -->
+<!-- Hr tag is used for horizontal line. -->
 <p>Some Text</p>
 <hr>
 <p>Some Text</p>
 
 
 
-<!-- now we will add an width attribute in hr tag -->
+<!-- now we will add an width attribute in hr tag. -->
 <p>A width attribute with the value of pixels</p>
 <hr width="70px">
 <hr width="70%">
@@ -57,7 +57,7 @@
 
 
 
-<!-- Now its time to learn text formatting elements -->
+<!-- Now its time to learn text formatting elements. -->
 
 
 <!-- Down below are the example on how you can make text bold, strong, italic e.t.c-->
