@@ -14,7 +14,7 @@
 <!-- src for/to internal source links & The alt attribute specifies an alternative text to be used, if an image cannot be displayed.-->
 <img src="image.jpg" alt="flower">
 
-<!-- if we want to align a code in center how we do it? -->
+<!-- if we want to align a code in center how we do it?. -->
 <p align="center">simple its done by adding *align="center*</p>
 
 
